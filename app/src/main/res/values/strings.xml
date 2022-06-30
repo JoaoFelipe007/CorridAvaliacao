@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalcularCorrida</string>
+    <string name="digit_race_value">Digite o Valor da Corrida</string>
+    <string name="how_was_the_service">Como foi o meu atendimento?</string>
+    <string name="excelent">Excelente (20%)</string>
+    <string name="good">Bom (16%)</string>
+    <string name="regular">Regular (10%)</string>
+    <string name="terrible">Pessimo (5%)</string>
+    <string name="round_run_text">Deseja Arredondar a corrida?</string>
+    <string name="calculete_text">Calcular</string>
+    <string name="run_result_text">Valor a mais pela avaliação: %s</string>
+</resources>
